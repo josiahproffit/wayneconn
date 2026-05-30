@@ -1,0 +1,7 @@
+# robots.txt — Wayne Conn Plumbing
+# Allow all search engines to crawl the entire site.
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap.
+Sitemap: https://www.wayneconnplumbing.com/sitemap.xml
